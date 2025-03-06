@@ -1211,7 +1211,5 @@ public class Main {
         chess.play();
     }
 }
- 
- 
-test
+
  
